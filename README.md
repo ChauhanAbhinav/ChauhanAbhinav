@@ -17,9 +17,12 @@ CLOUD MASTER  ·  AI WIZARD  ·  CODE WARRIOR
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
+</div>
 
 ---
 
+<div align="center">
+  
 ## PLAYER STATS
 
 ```
@@ -40,8 +43,12 @@ CLOUD MASTER  ·  AI WIZARD  ·  CODE WARRIOR
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
+<div align="center">
+  
 ## EQUIPPED ITEMS
 
 ```
@@ -60,7 +67,11 @@ CLOUD MASTER  ·  AI WIZARD  ·  CODE WARRIOR
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ACHIEVEMENTS UNLOCKED
 
@@ -89,7 +100,11 @@ CLOUD MASTER  ·  AI WIZARD  ·  CODE WARRIOR
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## INVENTORY / SKILL TREE
 
@@ -105,8 +120,11 @@ CLOUD MASTER  ·  AI WIZARD  ·  CODE WARRIOR
 └──────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
+<div align="center">
 ## SAVE POINT — CONTACT
 
 ```
@@ -121,9 +139,9 @@ CLOUD MASTER  ·  AI WIZARD  ·  CODE WARRIOR
 └─────────────────────────────────────────────────────────────┘
 ```
 
----
-
 </div>
+
+---
 
 <div align="center">
 
