@@ -17,7 +17,6 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-</div>
 
 ---
 
@@ -37,6 +36,7 @@
 │  AGI  ████████░░  CI/CD Speed & Release Automation          │
 │  WIS  █████████░  LLM Pipelines & AI Engineering            │
 │  END  ██████████  Debugging at 3am Without Dying            │
+│  EXP  ██████████  Wanderlust            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -92,14 +92,15 @@
 ## INVENTORY / SKILL TREE
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  BACKEND     [Node.js] [Python] [TypeScript] [GraphQL]      │
-│  FRONTEND    [React] [Angular] [HTML/CSS]                   │
-│  CLOUD       [Lambda] [ECS] [SQS] [EventBridge] [S3]        │
-│  AI / DATA   [Anthropic API] [DuckLake] [SQLMesh] [DLT]     │
-│  DEVOPS      [Docker] [Terraform] [GitLab CI/CD] [Linux]    │
-│  DATABASE    [PostgreSQL] [MySQL] [MongoDB] [DuckDB]        │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  BACKEND     [Node.js] [Python] [TypeScript] [GraphQL]       │
+│  FRONTEND    [React] [Angular] [HTML/CSS]                    │
+│  CLOUD       [Lambda] [ECS] [SQS] [EventBridge] [S3]         │
+│  AI / DATA   [Anthropic API] [DuckLake] [SQLMesh] [DLT]      │
+│  DEVOPS      [Docker] [Terraform] [GitLab CI/CD] [Linux]     │
+│  DATABASE    [PostgreSQL] [MySQL] [MongoDB] [DuckDB]         │
+│  HOBBIES     [Adventures] [Mountains] [Beaches] [Bike Riding]│
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -119,6 +120,8 @@
 ```
 
 ---
+
+</div>
 
 <div align="center">
 
